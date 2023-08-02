@@ -1,3 +1,5 @@
+package LvZero;
+
 import java.util.Scanner;
 
 public class LvZero004 {
